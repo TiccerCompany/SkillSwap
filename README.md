@@ -1,17 +1,14 @@
 # SkillSwap
 The SkillSwap app is a platform where gender-appropriate skills can be shared and learned.
 
-Məqsəd:
-SkillSwap ənənəvi cinsiyət rollarını aşan bir yanaşma ilə qadınların və kişilərin bir-birinə gündəlik həyat bacarıqlarını öyrədə biləcəyi platforma təklif edir. Qadınlar ev işləri ilə bağlı bacarıqlarını, kişilər isə təmir və sairə kimi bacarıqlarını paylaşa bilərlər.
-Bacarıqların Paylaşılması: İstifadəçilər öz bacarıqlarını paylaşa və digər istifadəçilərdən yeni bacarıqlar öyrənə bilərlər.
+Purpose: 
+SkillSwap offers a platform where women and men can teach each other everyday life skills in an approach that transcends traditional gender roles. Women can share their skills related to housework and men can share their skills like repairs and so on. Skill Sharing: Users can share their skills and learn new skills from other users.
 
-İcma Nişanı:
-SkillSwap icma yaratmaqla istifadəçiləri bir araya gətirir. İstifadəçilər bir-biri ilə ünsiyyət qura, təcrübələrini paylaşa və əlaqə yarada bilərlər.
-Cinsiyət Bərabərliyinə Fokuslanmış: Proqram cinsiyət bərabərliyini təşviq edir və qadınlar və kişilər arasında bacarıq mübadiləsini dəstəkləyir.
+Community Engagement: 
+SkillSwap brings users together by creating a community. Users can communicate with each other, share their experiences and create connections. Focused on Gender Equality: The program promotes gender equality and supports the exchange of skills between women and men.
 
-İstifadəçi təcrübəsi:
-SkillSwap istifadəçi dostu interfeys və interaktiv təcrübə təklif edir. İstifadəçilər asanlıqla bacarıq seçimləri edə, profillər yarada və maraqlı bacarıqlara tez daxil ola bilərlər.
+User experience: 
+SkillSwap offers a user-friendly interface and an interactive experience. Users can easily make skill selections, create profiles and quickly access skills of interest.
 
-İnkişaf Planları:
-Tətbiq daim inkişaf etdirilir və yeni funksiyalar əlavə olunur. İstifadəçi rəyi əsasında daha çox bacarıq kateqoriyaları və icma ilə əlaqəni gücləndirən funksiyalar əlavə etmək planları var.
-
+Development Plans: 
+The application is constantly being developed and new features are added. Based on user feedback, there are plans to add more skill categories and features that enhance community engagement.
